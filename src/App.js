@@ -5,7 +5,7 @@ import './App.css';
 
 function App() {
 
-  const getTokenURL = 'https://generate-token-7936.twil.io/video'
+  const getTokenURL = ''
 
   const [state, setState] = useState({
     token: '',
